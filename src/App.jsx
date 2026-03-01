@@ -72,7 +72,7 @@ function App() {
           <div className={`message-box ${showContent ? 'slide-up' : ''}`}>
             <h1>Chúc Mừng Sinh Nhật Minnn! 🎉</h1>
             <p>
-              Chúc Minnn tuổi mới luôn xinh đẹp, rạng rỡ và hạnh phúc. Mong rằng mọi điều tốt đẹp nhất sẽ đến với Minnn trong năm nay và mãi mãi về sau.
+              Chúc Minnn tuổi mới luôn xinh đẹp, rạng rỡ và hạnh phúc. Mong rằng mọi điều tốt đẹp nhất sẽ đến với Minnn trong năm nay và mãi mãi về sau. Dù mọi chuyện có ra sao mong Minnn hãy luôn tươi cười và lạc quan nhé!
             </p>
             
             {/* Gọi hàm User đã tạo ở trên vào đây */}
